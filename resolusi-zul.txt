@@ -1,0 +1,4 @@
+Resolusi Zul
+- Konsisten belajar web development 
+- Mempelajari HTML, CSS dan Javascript
+- Menyelesaikan tutorial Web Development Bootcamp di Udemy
