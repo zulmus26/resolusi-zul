@@ -1,5 +1,8 @@
 Resolusi Zul
-- Konsisten belajar web development 
-- Mempelajari HTML, CSS dan Javascript
-- Menyelesaikan tutorial Web Development Bootcamp di Udemy
-- Membuat Projek front-end
+* Pekerjaan:
+  -dapat permanen
+* Pemrograman:
+  - Mempelajari HTML, CSS dan Javascript
+  - Menyelesaikan tutorial Web Development Bootcamp di Udemy
+  - Membuat Projek front-end
+  - Membuat Projek full website (Front end + Back end)
